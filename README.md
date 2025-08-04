@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cuber1515
-- 👀 I’m interested in coding, science, math (I love Euclid's Elements), and random skill stuff like magic, yoyo tricks, cubing, ect.
-- 🌱 I’m currently learning stuff ig
+- 👀 I’m interested in coding, engineering, CAD, cyber security, chess, cubing, and a lot more 
+- 🌱 I’m currently learning fusion 360
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me: jacobpim52@gmail.com
 
